@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OGRGeoJSON</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="Shape_Leng">286.62410443</SimpleData>
+		<SimpleData name="FRAARCID">300000</SimpleData>
+		<SimpleData name="FRFRANODE">348741</SimpleData>
+		<SimpleData name="TOFRANODE">348746</SimpleData>
+		<SimpleData name="STFIPS">38</SimpleData>
+		<SimpleData name="CTFIPS">015</SimpleData>
+		<SimpleData name="STCYFIPS">38015</SimpleData>
+		<SimpleData name="STATE">ND</SimpleData>
+		<SimpleData name="FRAREGION">8</SimpleData>
+		<SimpleData name="RROWNER1">DMVW</SimpleData>
+		<SimpleData name="RROWNER2"></SimpleData>
+		<SimpleData name="RROWNER3"></SimpleData>
+		<SimpleData name="TRKRGHTS1"></SimpleData>
+		<SimpleData name="TRKRGHTS2"></SimpleData>
+		<SimpleData name="TRKRGHTS3"></SimpleData>
+		<SimpleData name="TRKRGHTS4"></SimpleData>
+		<SimpleData name="TRKRGHTS5"></SimpleData>
+		<SimpleData name="TRKRGHTS6"></SimpleData>
+		<SimpleData name="TRKRGHTS7"></SimpleData>
+		<SimpleData name="TRKRGHTS8"></SimpleData>
+		<SimpleData name="TRKRGHTS9"></SimpleData>
+		<SimpleData name="SUBDIV"></SimpleData>
+		<SimpleData name="YARD"></SimpleData>
+		<SimpleData name="PASSNGR"></SimpleData>
+		<SimpleData name="STRACNET"></SimpleData>
+		<SimpleData name="TRACKS">1</SimpleData>
+		<SimpleData name="NET">M</SimpleData>
+		<SimpleData name="MILES">0.17809961</SimpleData>
+		<SimpleData name="OLD_FRAID">0</SimpleData>
+		<SimpleData name="Shape_Le_1">0.00319403</SimpleData>
+		<SimpleData name="ShapeSTLength">418.656675035309</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-100.745199039103539,46.802841590172207 -100.745084823705056,46.803184232898801 -100.744942056253592,46.803469767759658 -100.744723146700309,46.803755302949703 -100.74448520094785,46.803955178894626 -100.744180628947404,46.804155052252284 -100.743828468694772,46.804288302794433 -100.743291150390732,46.804414473793727 -100.742755414918207,46.804540274949893</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="Shape_Leng">1427.65706748</SimpleData>
+		<SimpleData name="FRAARCID">300001</SimpleData>
+		<SimpleData name="FRFRANODE">338567</SimpleData>
+		<SimpleData name="TOFRANODE">338686</SimpleData>
+		<SimpleData name="STFIPS">30</SimpleData>
+		<SimpleData name="CTFIPS">087</SimpleData>
+		<SimpleData name="STCYFIPS">30087</SimpleData>
+		<SimpleData name="STATE">MT</SimpleData>
+		<SimpleData name="FRAREGION">8</SimpleData>
+		<SimpleData name="RROWNER1">BNSF</SimpleData>
+		<SimpleData name="RROWNER2"></SimpleData>
+		<SimpleData name="RROWNER3"></SimpleData>
+		<SimpleData name="TRKRGHTS1"></SimpleData>
+		<SimpleData name="TRKRGHTS2"></SimpleData>
+		<SimpleData name="TRKRGHTS3"></SimpleData>
+		<SimpleData name="TRKRGHTS4"></SimpleData>
+		<SimpleData name="TRKRGHTS5"></SimpleData>
+		<SimpleData name="TRKRGHTS6"></SimpleData>
+		<SimpleData name="TRKRGHTS7"></SimpleData>
+		<SimpleData name="TRKRGHTS8"></SimpleData>
+		<SimpleData name="TRKRGHTS9"></SimpleData>
+		<SimpleData name="SUBDIV"></SimpleData>
+		<SimpleData name="YARD"></SimpleData>
+		<SimpleData name="PASSNGR"></SimpleData>
+		<SimpleData name="STRACNET"></SimpleData>
+		<SimpleData name="TRACKS">0</SimpleData>
+		<SimpleData name="NET">O</SimpleData>
+		<SimpleData name="MILES">0.8871032</SimpleData>
+		<SimpleData name="OLD_FRAID">216850</SimpleData>
+		<SimpleData name="Shape_Le_1">0.01722685</SimpleData>
+		<SimpleData name="ShapeSTLength">2047.01184687868</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-106.657583432976182,45.86403850420399 -106.657678612175488,45.864466806781664 -106.657678611277163,45.864835624277369 -106.657583432976182,45.865204439951718 -106.657464460099973,45.865525666712664 -106.657202719772243,45.865858793016969 -106.656810108382373,45.866156223966534 -106.656250934965783,45.866465553968865 -106.655751247089,45.866644013909315 -106.655350225671441,45.866714781959487 -106.651615461911405,45.867373859285991 -106.651609048838594,45.867374990845036 -106.651099403136868,45.867464928135902 -106.647756259924947,45.868012203181443 -106.646043048710638,45.868309635119125 -106.642771291919402,45.868845012974809 -106.64234298776833,45.868963987285838</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="Shape_Leng">355.09444533</SimpleData>
+		<SimpleData name="FRAARCID">300002</SimpleData>
+		<SimpleData name="FRFRANODE">330112</SimpleData>
+		<SimpleData name="TOFRANODE">330117</SimpleData>
+		<SimpleData name="STFIPS">16</SimpleData>
+		<SimpleData name="CTFIPS">031</SimpleData>
+		<SimpleData name="STCYFIPS">16031</SimpleData>
+		<SimpleData name="STATE">ID</SimpleData>
+		<SimpleData name="FRAREGION">8</SimpleData>
+		<SimpleData name="RROWNER1">EIRR</SimpleData>
+		<SimpleData name="RROWNER2"></SimpleData>
+		<SimpleData name="RROWNER3"></SimpleData>
+		<SimpleData name="TRKRGHTS1"></SimpleData>
+		<SimpleData name="TRKRGHTS2"></SimpleData>
+		<SimpleData name="TRKRGHTS3"></SimpleData>
+		<SimpleData name="TRKRGHTS4"></SimpleData>
+		<SimpleData name="TRKRGHTS5"></SimpleData>
+		<SimpleData name="TRKRGHTS6"></SimpleData>
+		<SimpleData name="TRKRGHTS7"></SimpleData>
+		<SimpleData name="TRKRGHTS8"></SimpleData>
+		<SimpleData name="TRKRGHTS9"></SimpleData>
+		<SimpleData name="SUBDIV">TWIN FALLS</SimpleData>
+		<SimpleData name="YARD"></SimpleData>
+		<SimpleData name="PASSNGR"></SimpleData>
+		<SimpleData name="STRACNET"></SimpleData>
+		<SimpleData name="TRACKS">1</SimpleData>
+		<SimpleData name="NET">M</SimpleData>
+		<SimpleData name="MILES">0.22064502</SimpleData>
+		<SimpleData name="OLD_FRAID">187844</SimpleData>
+		<SimpleData name="Shape_Le_1">0.0042691</SimpleData>
+		<SimpleData name="ShapeSTLength">483.919572387254</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-113.78530762705725,42.54224393093817 -113.783407627349263,42.542653929934296 -113.783090037862024,42.542721431879862 -113.781133072388613,42.543137373142677</coordinates></LineString>
+  </Placemark>
+</Folder>
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="Shape_Leng" type="float"></SimpleField>
+	<SimpleField name="FRAARCID" type="int"></SimpleField>
+	<SimpleField name="FRFRANODE" type="int"></SimpleField>
+	<SimpleField name="TOFRANODE" type="int"></SimpleField>
+	<SimpleField name="STFIPS" type="string"></SimpleField>
+	<SimpleField name="CTFIPS" type="string"></SimpleField>
+	<SimpleField name="STCYFIPS" type="string"></SimpleField>
+	<SimpleField name="STATE" type="string"></SimpleField>
+	<SimpleField name="FRAREGION" type="int"></SimpleField>
+	<SimpleField name="RROWNER1" type="string"></SimpleField>
+	<SimpleField name="RROWNER2" type="string"></SimpleField>
+	<SimpleField name="RROWNER3" type="string"></SimpleField>
+	<SimpleField name="TRKRGHTS1" type="string"></SimpleField>
+	<SimpleField name="TRKRGHTS2" type="string"></SimpleField>
+	<SimpleField name="TRKRGHTS3" type="string"></SimpleField>
+	<SimpleField name="TRKRGHTS4" type="string"></SimpleField>
+	<SimpleField name="TRKRGHTS5" type="string"></SimpleField>
+	<SimpleField name="TRKRGHTS6" type="string"></SimpleField>
+	<SimpleField name="TRKRGHTS7" type="string"></SimpleField>
+	<SimpleField name="TRKRGHTS8" type="string"></SimpleField>
+	<SimpleField name="TRKRGHTS9" type="string"></SimpleField>
+	<SimpleField name="SUBDIV" type="string"></SimpleField>
+	<SimpleField name="YARD" type="string"></SimpleField>
+	<SimpleField name="PASSNGR" type="string"></SimpleField>
+	<SimpleField name="STRACNET" type="string"></SimpleField>
+	<SimpleField name="TRACKS" type="int"></SimpleField>
+	<SimpleField name="NET" type="string"></SimpleField>
+	<SimpleField name="MILES" type="float"></SimpleField>
+	<SimpleField name="OLD_FRAID" type="int"></SimpleField>
+	<SimpleField name="Shape_Le_1" type="float"></SimpleField>
+	<SimpleField name="ShapeSTLength" type="float"></SimpleField>
+</Schema>
+</Document></kml>
