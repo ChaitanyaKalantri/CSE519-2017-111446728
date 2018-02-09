@@ -76,9 +76,10 @@ II. For adding the item in the revelant restaurant:
 
 
 Testing Phase:
-I have tested the "createdb.py" file. The testing file is present in the "test" folder.
+I have created the "testcreatedb.py" file. The testing file is present in the "test" folder.
 To execute the file, follow the below mentioned steps:
 1. First open the command prompt and go to the directory location of 'ZapposFoodApp' folder.
 	To verify: when you type 'ls'; it should contain all the python files and the template, static, test folders.
 2. Now, excute this command "python tests/testcreatedb.py"
 	It will test whether the file is running properly or not
+	If the file is running properly you will be able to get the output
